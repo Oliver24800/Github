@@ -1,0 +1,99 @@
+body{
+  background-color: whitesmoke;
+  font-family: helvetica;
+  /* font-family: Nilland; */
+}
+
+.wrapper{
+  /* background-color: blue; */
+  margin: 0% 11%;
+  height:680px;
+  width: fit-content;
+}
+
+.center {
+	display:block;
+	margin-left: auto;
+	margin-right:auto;
+	width: 50%;
+}
+
+
+.header{
+  background-color: white;
+}
+
+#Ftitle {
+  padding-left: 15%;
+}
+
+.balk{
+  height:50px;
+  text-align: center;
+  border-top: 1px solid #E6E6E6;
+  border-bottom: 1px solid #E6E6E6;
+  line-height: 50px;
+}
+
+.kopjes{
+  padding: 20px;
+  font-size:18px;
+  color:black;
+  text-decoration: none;
+}
+
+.kopjes:hover{
+  text-decoration: underline;
+}
+
+
+
+.artikel {
+  border: 1px solid #E6E6E6;
+  background-color:white;
+  margin-top: 30px;
+  padding: 40px;
+  width: 770px;
+}
+
+
+
+
+
+.text{
+  font-size: 2.625rem;
+  color: #2c2d2f;
+  font-family: GeosansLight;
+}
+
+.text--italic-succes {
+
+  font-size: 19px;
+  font-style: italic;
+}
+
+.text--gray-color{
+  font-size: 16px;
+  color: #9F9F9F;
+}
+.text--green-color{
+  color: #7eb531;
+}
+
+.text--bold-size{
+  font-size: 20px;
+  font-weight: bold;
+}
+
+#beneden{
+  margin-bottom: 50px;
+}
+
+
+.recept{
+  border: 1px solid #E6E6E6;
+  padding: 40px;
+}
+
+
+
